@@ -19,4 +19,4 @@ Workout Tracker 💪💪💪 is a lightweight Python CLI tool designed to help y
 - Add date/time stamping per session
 - Support for multiple users
 - Export to CSV or JSON format
-- Weekly/monthly progress summaries
+- Weekly/monthly progress summaries 📈📈
