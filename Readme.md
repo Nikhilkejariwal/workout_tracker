@@ -1,8 +1,8 @@
-# About
-Workout Tracker is a lightweight Python CLI tool designed to help you record and review your gym sessions without needing a fancy app. Simply enter your exercise data and it gets saved automatically.
+# About 
+Workout Tracker 💪💪💪 is a lightweight Python CLI tool designed to help you record and review your gym sessions without needing a fancy app. Simply enter your exercise data and it gets saved automatically.
 
 # Features
-- Log exercises with sets, reps, and weight
+- Log exercises with sets, reps, and weight 🏋🏋🏋 ❚█══█❚❚█══█❚
 - Saves all workout data to a .txt file
 - View your full workout history in the terminal
 - Simple and fast — no internet or account needed
