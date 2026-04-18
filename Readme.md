@@ -8,15 +8,15 @@ Workout Tracker is a lightweight Python CLI tool designed to help you record and
 - Simple and fast — no internet or account needed
 
 # Usage
-When you run the program, you'll be prompted to enter:
-Exercise name (e.g., Bench Press)
-Number of sets
-Number of reps per set
-Weight used
-All entries are saved to workouts.txt and printed to the console.
+- When you run the program, you'll be prompted to enter:
+- Exercise name (e.g., Bench Press)
+- Number of sets
+- Number of reps per set
+- Weight used
+- All entries are saved to workouts.txt and printed to the console.
 
 # Future Improvements
-Add date/time stamping per session
-Support for multiple users
-Export to CSV or JSON format
-Weekly/monthly progress summaries
+- Add date/time stamping per session
+- Support for multiple users
+- Export to CSV or JSON format
+- Weekly/monthly progress summaries
